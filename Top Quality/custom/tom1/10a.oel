@@ -1,0 +1,24 @@
+<level>
+  <Floors>
+    <rect x="0" y="128" w="224" h="32"/>
+    <rect x="0" y="416" w="96" h="64"/>
+    <rect x="192" y="96" w="32" h="32"/>
+    <rect x="192" y="416" w="416" h="64"/>
+    <rect x="320" y="128" w="160" h="32"/>
+    <rect x="576" y="96" w="32" h="64"/>
+    <rect x="608" y="128" w="192" h="32"/>
+    <rect x="704" y="416" w="96" h="64"/>
+  </Floors>
+  <Stuff>
+    <ginsbergbot x="400" y="336"/>
+    <enemy x="64" y="112"/>
+    <enemy x="736" y="112"/>
+    <enemy x="32" y="400"/>
+    <enemy x="768" y="400"/>
+    <deepak x="400" y="96"/>
+    <atom x="144" y="480"/>
+    <atom x="656" y="480"/>
+    <atom x="400" y="384"/>
+    <powerup x="400" y="96"/>
+  </Stuff>
+</level>

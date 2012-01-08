@@ -1,0 +1,21 @@
+<movement>
+
+	<debug>
+		<letterLock>
+			a
+		</letterLock>
+
+		<firstLevel>
+			2
+		</firstLevel>
+	</debug>
+	
+	<title>
+		DA GAUNTLET
+	</title>
+
+	<author>
+		Tom Sennett
+	</author>
+	
+</movement>

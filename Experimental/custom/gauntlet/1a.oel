@@ -1,0 +1,17 @@
+<level>
+  <Floors>
+    <rect x="256" y="160" w="160" h="32"/>
+    <rect x="256" y="416" w="256" h="64"/>
+    <rect x="288" y="128" w="128" h="32"/>
+    <rect x="352" y="96" w="64" h="32"/>
+    <rect x="352" y="192" w="64" h="224"/>
+  </Floors>
+  <Stuff>
+    <atom x="208" y="240"/>
+    <atom x="144" y="400"/>
+    <enemy x="464" y="400"/>
+    <powerup x="624" y="160"/>
+  <atom x="592" y="368"/>
+    <deepak x="384" y="64"/>
+  </Stuff>
+</level>

@@ -1,0 +1,25 @@
+<level>
+  <Floors>
+    <rect x="0" y="128" w="224" h="32"/>
+    <rect x="64" y="0" w="672" h="32"/>
+    <rect x="64" y="352" w="32" h="192"/>
+    <rect x="96" y="384" w="640" h="160"/>
+    <rect x="320" y="224" w="160" h="32"/>
+    <rect x="576" y="128" w="224" h="32"/>
+    <rect x="704" y="352" w="32" h="32"/>
+  </Floors>
+  <Stuff>
+    <berserker x="400" y="352"/>
+    <mirror x="336" y="368"/>
+    <mirror x="464" y="368"/>
+    <deepak x="400" y="192"/>
+    <atom x="400" y="288"/>
+    <mirror x="80" y="336"/>
+    <mirror x="720" y="336"/>
+    <atom x="304" y="64"/>
+    <atom x="496" y="64"/>
+    <powerup x="400" y="192"/>
+    <flower x="80" y="80"/>
+    <flower x="720" y="80"/>
+  </Stuff>
+</level>

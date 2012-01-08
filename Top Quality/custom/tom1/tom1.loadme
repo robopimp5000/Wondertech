@@ -1,0 +1,17 @@
+<movement>
+
+	<title>
+		Tom's Awesome Sector
+	</title>
+	
+	<debug active="false">
+		<letterLock>
+			f
+		</letterLock>
+
+		<firstLevel>
+			3
+		</firstLevel>
+	</debug>
+
+</movement>
